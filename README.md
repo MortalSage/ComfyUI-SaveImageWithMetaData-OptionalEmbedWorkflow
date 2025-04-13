@@ -1,5 +1,5 @@
 # ComfyUI-SaveImageWithMetaData
-![SaveImageWithMetaData Preview](img/save_image_with_metadata.png)  
+![SaveImageWithMetaData Preview](img/Screenshot_2025-04-13_153116.png)  
 日本語版READMEは[こちら](README.jp.md)。
 
 - Custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
